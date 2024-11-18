@@ -80,7 +80,7 @@ msgstr "Tên chứng chỉ là bắt buộc."
 
 #: cms/static/js/certificates/models/certificate.js:87
 msgid "Signatory field(s) has invalid data."
-msgstr "(Các) trường người ký có dữ liệu không hợp lệ."
+msgstr "(Các) trường chữ ký có dữ liệu không hợp lệ."
 
 #: cms/static/js/certificates/views/certificate_details.js:46
 msgid "Edit this certificate?"
@@ -7206,11 +7206,11 @@ msgstr "Bản ghi video"
 
 #: xmodule/js/src/video/09_video_caption.js:843
 msgid "Start of transcript. Skip to the end."
-msgstr "Bắt đầu biên bản. Chuyển đến cuối."
+msgstr "Bắt đầu bản ghi. Chuyển đến cuối."
 
 #: xmodule/js/src/video/09_video_caption.js:847
 msgid "End of transcript. Skip to the start."
-msgstr "Kết thúc biên bản. Chuyển đến phần đầu."
+msgstr "Kết thúc bản ghi. Chuyển đến phần đầu."
 
 #: xmodule/js/src/video/09_video_caption.js:851
 msgid ""
@@ -7432,11 +7432,11 @@ msgstr "Ghi đè tiêu đề khóa học"
 
 #: cms/templates/js/certificate-details.underscore:36
 msgid "Course Number"
-msgstr "Số của khóa học"
+msgstr "Mã khóa học"
 
 #: cms/templates/js/certificate-details.underscore:42
 msgid "Course Number Override"
-msgstr "Ghi đè số khóa học"
+msgstr "Ghi đè mã khóa học"
 
 #: cms/templates/js/certificate-details.underscore:53
 #: cms/templates/js/certificate-editor.underscore:36

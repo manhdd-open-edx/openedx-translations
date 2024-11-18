@@ -371,7 +371,7 @@
 	<string name="core.core_accessibility_user_profile_image">ảnh hồ sơ %1$s</string>
 	<string name="core.core_accessibility_header_image_for">Hình ảnh tiêu đề cho %1$s</string>
 	<string name="core.core_accessibility_settings">Cài đặt</string>
-	<string name="core.core_accessibility_btn_back">Mặt sau</string>
+	<string name="core.core_accessibility_btn_back">Quay lại</string>
 	<string name="core.core_accessibility_expandable_arrow">Mũi tên có thể mở rộng</string>
 	<string name="core.core_video_download_to_device">Tải xuống thiết bị</string>
 	<string name="core.core_video_downloading_to_device">Đang tải xuống video…</string>
@@ -393,7 +393,7 @@
 	<string name="core.core_no_handouts">Hiện tại không có tài liệu nào cho khóa học này.</string>
 	<string name="core.core_no_announcements">Hiện tại không có thông báo nào cho khóa học này.</string>
 	<string name="core.course_confirm_download">Xác nhận Tải xuống</string>
-	<string name="core.core_edit">Biên tập</string>
+	<string name="core.core_edit">Chỉnh sửa</string>
 	<string name="core.core_offline_progress_sync">Đồng bộ tiến trình ngoại tuyến</string>
 	<string name="core.core_close">Đóng</string>
 	<string name="core.core_calendar_sync_failed">Đồng bộ hóa lịch không thành công</string>
