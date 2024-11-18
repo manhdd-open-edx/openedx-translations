@@ -343,7 +343,7 @@ msgstr "Lỗi máy chủ nội bộ."
 #. waiting for other uploads to complete
 #: cms/static/js/models/active_video_upload.js:9
 msgid "Queued"
-msgstr "Đã xếp hàng"
+msgstr "Đang chờ xử lý"
 
 #. Translators: This is the status of an active video upload
 #: cms/static/js/models/active_video_upload.js:11
@@ -2552,7 +2552,7 @@ msgstr "Hoạt động cuối"
 
 #: lms/djangoapps/teams/static/teams/js/collections/team.js:37
 msgid "open slots"
-msgstr "khe hở"
+msgstr "vị trí trống"
 
 #: lms/djangoapps/teams/static/teams/js/collections/topic.js:26
 msgid "name"
@@ -4097,7 +4097,7 @@ msgid ""
 "large number of learners, email messages to learners might take up to an "
 "hour to be sent."
 msgstr ""
-"Tin nhắn email của bạn đã được xếp hàng để gửi thành công. Trong các khóa "
+"Tin nhắn email của bạn đã được xử lý để gửi thành công. Trong các khóa "
 "học có số lượng lớn người học, thời gian gửi email tới người học có thể mất "
 "tới một giờ."
 
@@ -7350,7 +7350,7 @@ msgstr "Không dùng nữa"
 
 #: cms/templates/js/asset-library.underscore:5
 msgid "List of uploaded files and assets in this course"
-msgstr "Danh sách các tập tin và tài sản được tải lên trong khóa học này"
+msgstr "Danh sách các tập tin và tài nguyên được tải lên trong khóa học này"
 
 #: cms/templates/js/asset-library.underscore:20
 #: cms/templates/js/asset-library.underscore:53
@@ -7403,7 +7403,7 @@ msgstr "Xóa nội dung này"
 
 #: cms/templates/js/asset.underscore:42
 msgid "Lock this asset"
-msgstr "Khóa tài sản này"
+msgstr "Khóa tài nguyên này"
 
 #: cms/templates/js/asset.underscore:43
 msgid "Lock/unlock file"
