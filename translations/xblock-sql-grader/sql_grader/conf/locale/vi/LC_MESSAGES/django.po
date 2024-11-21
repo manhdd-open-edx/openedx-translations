@@ -27,7 +27,7 @@ msgstr "Chúng tôi không thể thực hiện truy vấn của bạn; vui lòng
 
 #: mixins/grading.py:89
 msgid "Weight"
-msgstr "Cân nặng"
+msgstr "Trọng số"
 
 #: mixins/grading.py:91
 msgid "This assigns an integer value representing the weight of this problem"

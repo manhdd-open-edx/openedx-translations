@@ -2800,7 +2800,7 @@ msgstr "Giới thiệu về khóa học này"
 
 #: enterprise/views.py:1615 enterprise/views.py:2113
 msgid "Course Staff"
-msgstr "Nhân viên khóa học"
+msgstr "Giáo viên khóa học"
 
 #: enterprise/views.py:2052
 #, python-brace-format

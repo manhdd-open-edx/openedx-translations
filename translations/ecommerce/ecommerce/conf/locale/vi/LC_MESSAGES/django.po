@@ -1382,7 +1382,7 @@ msgstr "thực khách"
 
 #: extensions/payment/constants.py:18
 msgid "Discover"
-msgstr "Phát hiện"
+msgstr "Khám phá"
 
 #: extensions/payment/constants.py:24
 msgid "JCB"
