@@ -128,7 +128,7 @@ msgstr "Đây là thông báo mà sinh viên sẽ thấy khi gửi câu trả l�
 
 #: models.py:140
 msgid "Weight"
-msgstr "Cân nặng"
+msgstr "Trọng số"
 
 #: models.py:142
 msgid "This assigns an integer value representing the weight of this problem"
