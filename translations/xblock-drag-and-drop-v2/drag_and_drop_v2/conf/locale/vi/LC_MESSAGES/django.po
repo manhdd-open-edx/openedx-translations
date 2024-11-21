@@ -245,7 +245,7 @@ msgstr "Đã cố gắng"
 
 #: drag_and_drop_v2.py:166
 msgid "Problem Weight"
-msgstr "Vấn đề cân nặng"
+msgstr "Vấn đề trọng số"
 
 #: drag_and_drop_v2.py:167
 msgid "Defines the number of points the problem is worth."
