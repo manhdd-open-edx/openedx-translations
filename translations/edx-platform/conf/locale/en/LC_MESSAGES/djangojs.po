@@ -1,14 +1,14 @@
 # #-#-#-#-#  djangojs.po (0.1a)  #-#-#-#-#
 # edX translation file.
-# Copyright (C) 2024 EdX
+# Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2024.
+# EdX Team <info@edx.org>, 2025.
 #
 # #-#-#-#-#  underscore.po (PROJECT VERSION)  #-#-#-#-#
 # Translations template for PROJECT.
-# Copyright (C) 2024 ORGANIZATION
+# Copyright (C) 2025 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
 #, fuzzy
 msgid ""
@@ -28,7 +28,7 @@ msgstr ""
 "#-#-#-#-#  underscore.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-11-27 00:34+0000\n"
+"POT-Creation-Date: 2025-01-15 00:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -176,7 +176,7 @@ msgstr ""
 #. browser when a user needs to edit HTML
 #: cms/static/js/certificates/views/signatory_editor.js:162
 #: cms/static/js/views/asset.js:73
-#: cms/static/js/views/components/add_library_content.js:53
+#: cms/static/js/views/components/add_library_content.js:54
 #: cms/static/js/views/course_info_update.js:267
 #: cms/static/js/views/export.js:360
 #: cms/static/js/views/manage_users_and_roles.js:33
@@ -184,7 +184,7 @@ msgstr ""
 #: cms/static/js/views/modals/course_outline_modals.js:219
 #: cms/static/js/views/modals/course_outline_modals.js:260
 #: cms/static/js/views/modals/preview_v2_library_changes.js:37
-#: cms/static/js/views/modals/select_v2_library_content.js:59
+#: cms/static/js/views/modals/select_v2_library_content.js:60
 #: cms/static/js/views/show_textbook.js:53 cms/static/js/views/tabs.js:188
 #: cms/static/js/views/validation.js:127
 #: common/static/common/js/components/utils/view_utils.js:68
@@ -658,12 +658,12 @@ msgstr ""
 
 #: cms/static/js/views/components/add_xblock.js:78
 #: cms/static/js/views/components/add_xblock.js:89
-#: cms/static/js/views/pages/container.js:524
+#: cms/static/js/views/pages/container.js:546
 #: cms/static/js/views/utils/xblock_utils.js:55
 msgid "Adding"
 msgstr ""
 
-#: cms/static/js/views/container.js:146
+#: cms/static/js/views/container.js:157
 msgid "{startTag}{requestToken}{endTag}{selector}"
 msgstr ""
 
@@ -688,7 +688,7 @@ msgid "OK"
 msgstr ""
 
 #: cms/static/js/views/course_outline.js:242
-#: cms/static/js/views/pages/container.js:607
+#: cms/static/js/views/pages/container.js:691
 #: cms/static/js/views/pages/container_subviews.js:187
 msgid "Copying"
 msgstr ""
@@ -1222,7 +1222,7 @@ msgstr ""
 msgid "Ignore"
 msgstr ""
 
-#: cms/static/js/views/modals/select_v2_library_content.js:58
+#: cms/static/js/views/modals/select_v2_library_content.js:59
 msgid "Add selected components"
 msgstr ""
 
@@ -1275,7 +1275,7 @@ msgstr ""
 
 #. Translators: "title" is the name of the current component or unit being
 #. edited.
-#: cms/static/js/views/pages/container.js:560
+#: cms/static/js/views/pages/container.js:641
 msgid "Editing access for: {title}"
 msgstr ""
 
@@ -6906,7 +6906,7 @@ msgid "Show All"
 msgstr ""
 
 #: cms/templates/js/asset-library.underscore:57
-#: cms/templates/js/basic-modal.underscore:24
+#: cms/templates/js/basic-modal.underscore:26
 #: cms/templates/js/course-outline.underscore:201
 #: cms/templates/js/course-outline.underscore:203
 #: lms/templates/instructor/instructor_dashboard_2/enrollment-code-lookup-links.underscore:6
